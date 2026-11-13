@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Documents Without Borders</title>
+    <link>https://documentswithoutborders.org</link>
+    <description>Notarization, apostille, authentication, and translation services for documents used across borders.</description>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 13 Nov 2026 00:25:29 GMT</lastBuildDate>
+
+    <item>
+      <title>What Is an Apostille and When Do You Need One?</title>
+      <link>https://documentswithoutborders.org/blog/what-is-an-apostille</link>
+      <guid>https://documentswithoutborders.org/blog/what-is-an-apostille</guid>
+      <description>If your documents are going to be used in another country, you may need an apostille. Here is what it is, who needs it, and how long it takes.</description>
+      <pubDate>Thu, 12 Nov 2026 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>How to Get U.S. Documents Ready for International Use</title>
+      <link>https://documentswithoutborders.org/blog/us-documents-for-international-use</link>
+      <guid>https://documentswithoutborders.org/blog/us-documents-for-international-use</guid>
+      <description>From notarization to state authentication to embassy legalization - the step-by-step process to make your U.S. documents valid abroad.</description>
+      <pubDate>Tue, 10 Nov 2026 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Certified Translation: What Counts and What Does Not</title>
+      <link>https://documentswithoutborders.org/blog/certified-translation</link>
+      <guid>https://documentswithoutborders.org/blog/certified-translation</guid>
+      <description>Not every translation is accepted by governments and embassies. Learn what makes a certified translation valid for official use.</description>
+      <pubDate>Fri, 06 Nov 2026 12:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

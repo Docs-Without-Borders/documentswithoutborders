@@ -1,0 +1,9 @@
+{
+  "name": "documentswithoutborders",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "generate-rss": "node generate-rss.js",
+    "build": "node generate-rss.js"
+  }
+}
