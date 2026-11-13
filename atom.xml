@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Documents Without Borders</title>
+  <link href="https://documentswithoutborders.org/" />
+  <link href="https://docs-without-borders.github.io/documentswithoutborders/atom.xml" rel="self" />
+  <id>https://documentswithoutborders.org/</id>
+  <updated>2026-11-13T02:11:47Z</updated>
+  <author><name>Documents Without Borders</name></author>
+  <subtitle>Notarization, apostille, authentication, and translation services for documents used across borders.</subtitle>
+
+  <entry>
+    <title>What Is an Apostille and When Do You Need One?</title>
+    <link href="https://documentswithoutborders.org/blog/what-is-an-apostille" />
+    <id>https://documentswithoutborders.org/blog/what-is-an-apostille</id>
+    <updated>2026-11-12T12:00:00Z</updated>
+    <published>2026-11-12T12:00:00Z</published>
+    <summary>If your documents are going to be used in another country, you may need an apostille. Here is what it is, who needs it, and how long it takes.</summary>
+    <content type="html">If your documents are going to be used in another country, you may need an apostille. Here is what it is, who needs it, and how long it takes.</content>
+  </entry>
+  <entry>
+    <title>How to Get U.S. Documents Ready for International Use</title>
+    <link href="https://documentswithoutborders.org/blog/us-documents-for-international-use" />
+    <id>https://documentswithoutborders.org/blog/us-documents-for-international-use</id>
+    <updated>2026-11-10T12:00:00Z</updated>
+    <published>2026-11-10T12:00:00Z</published>
+    <summary>From notarization to state authentication to embassy legalization - the step-by-step process to make your U.S. documents valid abroad.</summary>
+    <content type="html">From notarization to state authentication to embassy legalization - the step-by-step process to make your U.S. documents valid abroad.</content>
+  </entry>
+  <entry>
+    <title>Certified Translation: What Counts and What Does Not</title>
+    <link href="https://documentswithoutborders.org/blog/certified-translation" />
+    <id>https://documentswithoutborders.org/blog/certified-translation</id>
+    <updated>2026-11-06T12:00:00Z</updated>
+    <published>2026-11-06T12:00:00Z</published>
+    <summary>Not every translation is accepted by governments and embassies. Learn what makes a certified translation valid for official use.</summary>
+    <content type="html">Not every translation is accepted by governments and embassies. Learn what makes a certified translation valid for official use.</content>
+  </entry>
+</feed>
